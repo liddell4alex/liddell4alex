@@ -1,6 +1,8 @@
 <h2 align="center">Hi, I'm Alex</h2>
 
-[![Alex Liddell's GitHub stats](https://github-readme-stats.vercel.app/api?username=liddell4alex&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![Alex Liddell's GitHub stats](https://github-readme-stats.vercel.app/api?username=liddell4alex&show_icons=true&theme=synthwave)](https://github.com/liddell4alex/github-readme-stats)
+
+[![Alex Liddell's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=liddell4alex&size_weight=0.5&count_weight=0.5&layout=compact)](https://github.com/liddell4alex/github-readme-stats)
 
 <!--
 **liddell4alex/liddell4alex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
