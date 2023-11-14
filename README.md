@@ -12,7 +12,7 @@ Hi I'm still a student. I love Linux :penguin:, specifically Arch Linux. I love 
 
 <p align="left">
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="40px" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="40px" height="40"/>
 
 
 
