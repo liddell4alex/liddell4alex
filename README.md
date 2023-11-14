@@ -1,4 +1,4 @@
-<h2 align="center">Hi, I'm Alex <img src="https://slackmojis.com/emojis/66174-anime/download" width="25px"/></h2>
+<h1 align="center">Hi, I'm Alex <img src="https://slackmojis.com/emojis/66174-anime/download" width="25px"/></h1>
 
 <img src="https://i.postimg.cc/Hn8pJzg1/key.jpg" width="100%" height="100%">
 
