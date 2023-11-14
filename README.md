@@ -18,7 +18,7 @@ Hi I'm still a student. I love Linux :penguin:, specifically Arch Linux. I love 
 
 </a>
 
-<a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-line.svg" alt="linux" width="40" height="40"/> </a>
+<a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-plain.svg" alt="linux" width="40" height="40"/> </a>
 
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 
