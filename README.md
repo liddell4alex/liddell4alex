@@ -20,7 +20,7 @@ Hi I'm still a student. I love Linux :penguin:, specifically Arch Linux. I love 
 
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 
-<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-line.svg" alt="python" width="40" height="40"/> </a>
 
 <a href="https://es.wikipedia.org/wiki/Bash" target="_blank"> <img src="https://i.postimg.cc/KYYRkqtV/Terminalicon2.png" alt="react" width="40" height="40"/> </a>
 
