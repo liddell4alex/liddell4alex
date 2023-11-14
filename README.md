@@ -1,4 +1,4 @@
-<h2 align="center">Hi, I'm Alex </h2><img src="https://slackmojis.com/emojis/66174-anime/download" width="25px"/>
+<h2 align="center">Hi, I'm Alex <img src="https://slackmojis.com/emojis/66174-anime/download" width="25px"/></h2>
 
 <p align="center"><b>
 Hi I'm still a student. I love Linux :penguin:, specifically Arch Linux. I love learning, about anything.  Although I love programming and everything that has to do with technology, I don't mind learning different things.
