@@ -14,7 +14,7 @@ Hi I'm still a student. I love Linux :penguin:, specifically Arch Linux. I love 
 
 <a href="https://www.r-project.org/" target="_blank">
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" width="40px" height="40"/>
 </a>
 
 <a href="https://es.m.wikipedia.org/wiki/C%2B%2B" target="_blank">
