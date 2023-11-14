@@ -12,11 +12,9 @@ Hi I'm still a student. I love Linux :penguin:, specifically Arch Linux. I love 
 
 <p align="left">
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="40px" height="40"/>
-j
+<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="40px" height="40px"/>
 
-
-<a href="https://www.r-project.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" width="40px" height="40"/></a>
+<a href="https://www.r-project.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" width="40px" height="40px"/></a>
 
 <a href="https://es.m.wikipedia.org/wiki/C%2B%2B" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="40px" height="40"/></a>
 
