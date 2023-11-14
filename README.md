@@ -6,13 +6,16 @@ Hi I'm still a student. I love Linux :penguin:, specifically Arch Linux. I love 
 
 ### Favorite Linux Distro
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/aarch64/aarch64-original.svg" height="40px" width="40px"/>
-
-<a href="https://archlinux.org/"><img src="https://i.postimg.cc/8zbXyg1X/1200px-Arch-Linux-logo-svg.png" height="20%" width="20%"></a>
+<a href="https://archlinux.org/"><img src="https://i.postimg.cc/8zbXyg1X/1200px-Arch-Linux-logo-svg.png" height="40%" width="40%"></a>
 
 ### Still Learning
 
-<p align="left" display="inline-block">
+<p align="left">
+
+<a href="https://www.r-project.org/" target="_blank">
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg"/>
+</a>
 
 <a href="https://es.m.wikipedia.org/wiki/C%2B%2B" target="_blank">
 
