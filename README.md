@@ -1,4 +1,4 @@
-<h2 align="center">Hi, I'm Alex </a><img src="https://slackmojis.com/emojis/66174-anime/download" width="25px"></h2> 
+<h2 align="center">Hi, I'm Alex <img src="https://slackmojis.com/emojis/66174-anime/download" width="25px"></h2> 
 
 [![Alex Liddell's GitHub stats](https://github-readme-stats.vercel.app/api?username=liddell4alex&show_icons=true&theme=radical)](https://github.com/liddell4alex/github-readme-stats)
 
