@@ -1,6 +1,6 @@
 <h2 align="center">Hi, I'm Alex <img src="https://slackmojis.com/emojis/66174-anime/download" width="25px"/></h2>
 
-<img src="https://i.postimg.cc/WbQhNLTb/IMG-20200729-010513-1.jpg" width="100%" height="100%">
+<img src="https://i.postimg.cc/Hn8pJzg1/key.jpg" width="100%" height="100%">
 
 <p align="center"><b>
 Hi I'm still a student. I love Linux :penguin:, specifically Arch Linux. I love learning, about anything.  Although I love programming and everything that has to do with technology, I don't mind learning different things.
