@@ -6,6 +6,8 @@ Hi I'm still a student. I love Linux :penguin:, specifically Arch Linux. I love 
 
 ### Favorite Linux Distro
 
+<img href="https://github.com/devicons/devicon/blob/master/icons/aarch64/aarch64-original.svg"/>
+
 <a href="https://archlinux.org/"><img src="https://i.postimg.cc/8zbXyg1X/1200px-Arch-Linux-logo-svg.png" height="20%" width="20%"></a>
 
 ### Still Learning
