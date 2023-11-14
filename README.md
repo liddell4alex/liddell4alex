@@ -10,7 +10,7 @@ Hi I'm still a student. I love Linux :penguin:, specifically Arch Linux. I love 
 
 ### Still Learning
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-plain.svg" width="40px" height="40px"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-line.svg" width="40px" height="40px"/>
 
 <p align="left">
 
