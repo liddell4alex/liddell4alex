@@ -8,13 +8,23 @@ Hi I'm still a student. I love Linux :penguin:, specifically Arch Linux. I love 
 
 <a href="https://archlinux.org/"><img src="https://i.postimg.cc/8zbXyg1X/1200px-Arch-Linux-logo-svg.png" height="40%" width="40%"></a>
 
-### Still Learning
+### Technologies I want to learn or am learning.
 
 <p align="left">
 
 <a href="https://www.r-project.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" width="40px" height="40px"/></a>
 
+<a href="https://en.wikipedia.org/wiki/CSS" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="40px" height="40px"/></a>
+
+<a href="https://en.wikipedia.org/wiki/JavaScript" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40px" height="40px"/></a>
+
+
+
+
+
 <a href="https://es.m.wikipedia.org/wiki/C%2B%2B" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="40px" height="40px"/></a>
+
+<a href="https://en.wikipedia.org/wiki/HTML" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="react" width="40px" height="40px"/> </a>
 
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40px" height="40px"/> </a>
 
