@@ -4,8 +4,10 @@
 Hi I'm still a student. I love Linux :penguin:, specifically Arch Linux. I love learning, about anything.  Although I love programming and everything that has to do with technology, I don't mind learning different things.
 </b></p>
 
+### My stats
 [![Alex Liddell's GitHub stats](https://github-readme-stats.vercel.app/api?username=liddell4alex&show_icons=true&theme=radical)](https://github.com/liddell4alex/github-readme-stats)
 
+### My Most Used Languages 
 ![Alex Liddell's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=liddell4alex&theme=radical&layout=compact)
 
 <!--
