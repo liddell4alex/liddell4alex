@@ -2,10 +2,6 @@
 
 <img src="https://i.postimg.cc/Y2zFqQHV/key.jpg" width="100%" height="100%">
 
-<p align="center"><b>
-Hi I'm still a student. I love Linux :penguin:, specifically Arch Linux. I love learning, about anything.  Although I love programming and everything that has to do with technology, I don't mind learning different things.
-</b></p>
-
 ### Favorite Linux Distro
 
 <a href="https://archlinux.org/"><img src="https://i.postimg.cc/8zbXyg1X/1200px-Arch-Linux-logo-svg.png" height="40%" width="40%"></a>
