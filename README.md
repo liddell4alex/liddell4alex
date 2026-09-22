@@ -4,6 +4,12 @@
 
 I’m a 5th-semester student in the Information Technologies in Science program at UNAM ENES Morelia. I’m passionate about understanding Linux and operating systems in depth, and I enjoy developing my own software and exploring how things work under the hood. I’m also interested in different areas of technology, particularly programming, computer systems, and software development. I enjoy learning through hands-on projects and continuously improving my technical skills.
 
+I am deeply interested in algorithms and in understanding how they work at a fundamental level. I enjoy studying existing algorithms, exploring the ideas behind them, and I want to develop my own solutions to complex problems. I am also particularly interested in cybersecurity and system security.
+
+My main interests lie in specialized software development, algorithms, and lower-level areas of computing and systems. I am looking for opportunities where I can immerse myself deeply in a technical subject, learn how complex systems work internally, and contribute to building or improving them.
+
+I have a strong curiosity for understanding what happens beneath the surface. I enjoy taking systems apart conceptually, examining their internal mechanisms, and understanding how all their components interact—the underlying "gears" that make them work.
+
 
 ### Technologies I want to learn or am learning.
 
