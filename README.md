@@ -20,7 +20,7 @@ I have a strong curiosity for understanding what happens beneath the surface. I 
 [![Alex Liddell's GitHub stats](https://github-stats-extended.vercel.app/api?username=liddell4alex&theme=radical)](https://github.com/stats-organization/github-stats-extended)
 
 ### My Most Used Languages 
-[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=liddell4alex&theme=radical)](https://github.com/stats-organization/github-stats-extended)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=liddell4alex&theme=radical&hide=html,javascript,powershell,css)](https://github.com/stats-organization/github-stats-extended)
 
 <!--
 **liddell4alex/liddell4alex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
